@@ -4,113 +4,96 @@
       "id": 1,
       "nombre": "Vicente",
       "apellido": "Llanos",
+      "rol": "admin",
       "email": "vicente@okylife.cl",
-      "password": "827ccb0eea8a706c4c34a16891f84e7b"
-    },
-    {
-      "id": 2,
-      "nombre": "Cristóbal",
-      "apellido": "Nilo",
-      "email": "cristobal@okylife.cl",
-      "password": "e807f1fcf82d132f9bb018ca6738a19f"
-    },
-    {
-      "nombre": "Rocío",
-      "apellido": "Parraguez",
-      "email": "rocio@okylife.cl",
+      "telefono": "+56956674897",
       "password": "827ccb0eea8a706c4c34a16891f84e7b",
-      "id": 3
+      "description": "Usuario de prueba para poder agregar a los demás"
     },
     {
-      "nombre": "Miguel",
-      "apellido": "Perrotta",
-      "email": "miguel@okylife.cl",
-      "password": "827ccb0eea8a706c4c34a16891f84e7b",
-      "id": 4
-    },
-    {
-      "nombre": "Vicente",
-      "apellido": "Llanos",
-      "email": "vicenteandress60@gmail.com",
-      "password": "e10adc3949ba59abbe56e057f20f883e",
-      "confirmPassword": "e10adc3949ba59abbe56e057f20f883e",
-      "id": 5
-    },
-    {
-      "nombre": "federico",
-      "apellido": "Carreño",
-      "email": "federico@gmail.com",
-      "password": "827ccb0eea8a706c4c34a16891f84e7b",
-      "confirmPassword": "827ccb0eea8a706c4c34a16891f84e7b",
-      "id": 6
-    },
-    {
-      "nombre": "Cristóbal",
-      "apellido": "Muller",
-      "email": "jeje@gmail.com",
-      "password": "81dc9bdb52d04dc20036dbd8313ed055",
-      "confirmPassword": "81dc9bdb52d04dc20036dbd8313ed055",
-      "id": 7
-    },
-    {
-      "nombre": "admin",
-      "apellido": "",
-      "email": "admin@okylife.cl",
-      "password": "827ccb0eea8a706c4c34a16891f84e7b",
-      "confirmPassword": "827ccb0eea8a706c4c34a16891f84e7b",
-      "description": "Este el perfil de administrador donde se puede encontrar todo tipo de información al respecto de la página Okycoach",
-      "id": 8
-    },
-    {
-      "nombre": "Romina ",
-      "apellido": "Perrotta",
-      "email": "rdperrotta@miuandes.cl",
-      "password": "e938761aded9c351753809a5b6354631",
-      "confirmPassword": "e938761aded9c351753809a5b6354631",
-      "description": "CEO de okylife",
-      "id": 9
+      "nombre": "tomás",
+      "apellido": "Campusano",
+      "email": "tomas@gmail.com",
+      "telefono": "+56912345678",
+      "rol": "paciente",
+      "id": 2
     },
     {
       "nombre": "Romina",
       "apellido": "Perrotta",
+      "rol": "afi",
       "email": "romi.perrotta13@gmail.com",
+      "telefono": "+56986946257",
       "password": "e938761aded9c351753809a5b6354631",
       "confirmPassword": "e938761aded9c351753809a5b6354631",
-      "description": "Perfil: AFI",
-      "id": 10
+      "description": "CEO de Okylife",
+      "id": 3
     },
     {
-      "nombre": "OkyLife",
-      "apellido": "",
-      "email": "contacto@okylife.cl",
+      "nombre": "Romina",
+      "apellido": "Perrotta",
+      "rol": "nutricionista",
+      "email": "rdperrotta@miuandes.cl",
+      "telefono": "+56986946257",
       "password": "e938761aded9c351753809a5b6354631",
       "confirmPassword": "e938761aded9c351753809a5b6354631",
-      "description": "Rol: Administrador",
-      "id": 11
+      "description": "CEO de Okylife",
+      "id": 4
+    },
+    {
+      "nombre": "Okylife",
+      "apellido": "",
+      "rol": "admin",
+      "email": "contacto@okylife.cl",
+      "telefono": "",
+      "password": "e938761aded9c351753809a5b6354631",
+      "confirmPassword": "d41d8cd98f00b204e9800998ecf8427e",
+      "description": "",
+      "id": 5
+    },
+    {
+      "nombre": "okylife",
+      "apellido": "",
+      "rol": "okylife",
+      "email": "okylife@okylife.cl",
+      "telefono": "",
+      "password": "e938761aded9c351753809a5b6354631",
+      "confirmPassword": "e938761aded9c351753809a5b6354631",
+      "description": "",
+      "id": 6
+    },
+    {
+      "nombre": "María",
+      "apellido": "Suric",
+      "rol": "afi",
+      "email": "msuric1@miuandes.cl",
+      "telefono": "+56990895667",
+      "password": "5621455638ff13eaf716eb1b4b54f428",
+      "confirmPassword": "5621455638ff13eaf716eb1b4b54f428",
+      "description": "",
+      "id": 7
+    },
+    {
+      "nombre": "NutriCoach",
+      "apellido": "",
+      "rol": "nutricoach",
+      "email": "nutricoach.okylife@gmail.com",
+      "telefono": "+56967560113",
+      "password": "e938761aded9c351753809a5b6354631",
+      "confirmPassword": "e938761aded9c351753809a5b6354631",
+      "description": "",
+      "id": 8
     }
   ],
   "preguntas": [
     {
       "nombre": "Vicente",
-      "apellido": "Llanos",
-      "email": "vicente@okylife.cl",
+      "apellido": "Luján",
+      "email": "vicenteandress60@gmail.com",
       "telefono": "+56956674897",
       "pregunta": "¿Cuánta proteína necesito comer al día para ganar masa muscular??",
       "id": 1
     }
   ],
-  "respuestas": [
-    {
-      "email_paciente": "vicente@okylife.cl",
-      "email_nutricionista": "vicente@okylife.cl",
-      "respuesta": "Para poder ganar masa muscular, lo primero que debes hacer es estar en un superávit calórico. Además de eso, consumir al menos 1,7g de proteína por kg y obviamente hacer ejercicio :)",
-      "id": 1
-    },
-    {
-      "email_paciente": "",
-      "email_nutricionista": "",
-      "respuesta": "",
-      "id": 2
-    }
-  ]
+  "respuestas": []
 }
